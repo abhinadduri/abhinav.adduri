@@ -3,7 +3,7 @@
 
 Hello! I am a 5th year Ph.D. Candidate in the Computational Biology Department at CMU. 
 
-I am lucky to be advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). <img src="abhi-icon.jpg" align="right" alt="Abhinav Adduri"/>
+I am lucky to be advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). <img src="assets/images/abhi-icon.jpg" align="right" alt="Abhinav Adduri"/>
 
 My focus is on using ML / AI techniques and graph algorithms for novel, natural drug discovery. Organisms in nature such as bacteria or fungi can produce drugs that can benefit humankind, but as of now, finding these drugs is laborious and mostly trial and error. 
 
