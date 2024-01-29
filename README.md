@@ -18,9 +18,9 @@ Yan, D.\*, Zhou, M.\*, **Adduri, A.\***, Guler, M., Liu, S., Shin, H., Kovach, T
 
 Mongia, M., Baral, R., **Adduri, A.**, Yan, D., Liu, Y., Bian, Y., Kim, P., Behsaz, B., & Mohimani, H. (2023). AdenPredictor: Accurate prediction of the adenylation domain specificity of nonribosomal peptide biosynthetic gene clusters in microbial genomes. *Bioinformatics, 39*(Supplement 1), i40-i46.
 
-Adduri, A. (2019). IoT integration in manufacturing processes. In *Simulation for Industry 4.0: Past, Present, and Future* (pp. 129-139).
+**Adduri, A.** (2019). IoT integration in manufacturing processes. In *Simulation for Industry 4.0: Past, Present, and Future* (pp. 129-139).
 
-Adduri, A., & Schruben, L. (2017). The Tao of simulation. In *2017 Winter Simulation Conference (WSC)* (pp. 607-616). IEEE.
+**Adduri, A.**, & Schruben, L. (2017). The Tao of simulation. In *2017 Winter Simulation Conference (WSC)* (pp. 607-616). IEEE.
 
 # Pending publications... stay tuned!
 
