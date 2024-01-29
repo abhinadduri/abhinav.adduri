@@ -3,7 +3,9 @@
 
 Hello! I am a 5th year Ph.D. Candidate in the Computational Biology Department at CMU. 
 
-I am lucky to be advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). <img src="assets/images/abhi-icon.jpg" align="right" alt="Abhinav Adduri"/>
+<img src="assets/images/abhi-icon.jpg" align="right" alt="Abhinav Adduri"/>
+
+I am fortunate to be advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/).
 
 My focus is on using ML / AI techniques and graph algorithms for novel, natural drug discovery. Organisms in nature such as bacteria or fungi can produce drugs that can benefit humankind, but as of now, finding these drugs is laborious and mostly trial and error. 
 
@@ -22,9 +24,13 @@ Mongia, M., Baral, R., **Adduri, A.**, Yan, D., Liu, Y., Bian, Y., Kim, P., Behs
 
 **Adduri, A.**, & Schruben, L. (2017). The Tao of simulation. In *2017 Winter Simulation Conference (WSC)* (pp. 607-616). IEEE.
 
+*Equal Contribution.
+
 # Pending publications... stay tuned!
 
 Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, Mohamed, O. G., Caraballo-Rodríguez, A. M., Duggan, B., Chaudhary, N., Miller, C., Liu, S., Krummenacher, B., Broders, K., Zamith-Miranda, D., Schultz, P. J., Sherman, D. H., Clement, J., Nakayasu, E., Nosanchuk, J., Dorrestein, P. C., Tripathi, A., & Mohimani, H. (Expected 2024). Pathogen-oriented platform for large-scale natural product discovery identifies novel antifungal targeting drug-resistant candidiasis. *Manuscript in preparation for submission to Nature.*
+
+*Equal Contribution.
 
 # Side Projects
 [RecursiveGPT](https://github.com/james-julius/recursive-gpt) - a chat interface I helped develop which searches for adjacent GPT conversations in embedding space and suggests follow-up questions to enhance your knowledge dives.
