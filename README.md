@@ -1,5 +1,7 @@
+<img src="abhi-icon.jpg" align="right" alt="Abhinav Adduri"/>
+
 # Abhinav Adduri
-[\[LinkedIn\]](https://www.linkedin.com/in/abhinadduri/) [\[aadduri\@andrew.cmu.edu\]](mailto:aadduri@andrew.cmu.edu)
+[\[LinkedIn\]](https://www.linkedin.com/in/abhinadduri/) [\[aadduri@andrew.cmu.edu\]](mailto:aadduri@andrew.cmu.edu) 
 
 Hello! I am a 5th year Ph.D. Candidate in the Computational Biology Department at CMU. I am lucky to be advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/).
 
@@ -20,4 +22,4 @@ Adduri, A., & Schruben, L. (2017). The Tao of simulation. In *2017 Winter Simula
 
 # Pending publications... stay tuned!
 
-Behsaz, B.\*, **Adduri, A.\***, Guler, M.*, Mohamed, O. G., Caraballo-Rodríguez, A. M., Duggan, B., Chaudhary, N., Miller, C., Liu, S., Krummenacher, B., Broders, K., Zamith-Miranda, D., Schultz, P. J., Sherman, D. H., Clement, J., Nakayasu, E., Nosanchuk, J., Dorrestein, P. C., Tripathi, A., & Mohimani, H. (Expected 2024). Pathogen-oriented platform for large-scale natural product discovery identifies novel antifungal targeting drug-resistant candidiasis. *Manuscript in preparation for submission to Nature.*
+Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, Mohamed, O. G., Caraballo-Rodríguez, A. M., Duggan, B., Chaudhary, N., Miller, C., Liu, S., Krummenacher, B., Broders, K., Zamith-Miranda, D., Schultz, P. J., Sherman, D. H., Clement, J., Nakayasu, E., Nosanchuk, J., Dorrestein, P. C., Tripathi, A., & Mohimani, H. (Expected 2024). Pathogen-oriented platform for large-scale natural product discovery identifies novel antifungal targeting drug-resistant candidiasis. *Manuscript in preparation for submission to Nature.*
