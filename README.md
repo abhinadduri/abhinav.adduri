@@ -1,7 +1,6 @@
 # Abhinav Adduri
-<img src="assets/images/abhinav-portrait.jpg" align="right" alt="Abhinav Adduri"/>
-
 [\[LinkedIn\]](https://www.linkedin.com/in/abhinadduri/) &nbsp; [\[CV\]](https://raw.githubusercontent.com/abhinadduri/abhinadduri.github.io/main/assets/Abhinav_CV.pdf) &nbsp; [\[aadduri@andrew.cmu.edu\]](mailto:aadduri@andrew.cmu.edu) 
+<img src="assets/images/abhinav-portrait.jpg" align="right" alt="Abhinav Adduri"/>
 
 Hello! I am a 5th year Ph.D. Candidate in the Computational Biology Department at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). My focus is on using AI / ML techniques and efficient, scalable algorithms for natural drug discovery.
 
