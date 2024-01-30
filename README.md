@@ -1,11 +1,11 @@
 # Abhinav Adduri
 [\[LinkedIn\]](https://www.linkedin.com/in/abhinadduri/) &nbsp; [\[aadduri@andrew.cmu.edu\]](mailto:aadduri@andrew.cmu.edu) 
 
-Hello! I am a 5th year Ph.D. Candidate in the Computational Biology Department at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). My focus is on using AI / ML techniques and algorithms for natural drug discovery.
+Hello! I am a 5th year Ph.D. Candidate in the Computational Biology Department at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/).
 
 <img src="assets/images/abhi-icon.jpg" align="right" alt="Abhinav Adduri"/>
 
-Organisms in nature such as bacteria or fungi can produce drugs that can benefit humankind, but as of now, finding these drugs is laborious and mostly trial and error. 
+My focus is on using AI / ML techniques and algorithms for natural drug discovery. Organisms in nature such as bacteria or fungi can produce drugs that can benefit humankind, but as of now, finding these drugs is laborious and mostly trial and error. 
 
 Since DNA largely dictates the characteristics of organisms, my research started with the question: can we examine the DNA of microbes to reliably predict the drug-like compounds they will create? And, can we characterize whether they will be useful to humans as antibiotics, antifungals, or even as cancer therapeutics? 
 
