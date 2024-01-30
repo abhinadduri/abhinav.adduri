@@ -1,15 +1,20 @@
 # Abhinav Adduri
 [\[LinkedIn\]](https://www.linkedin.com/in/abhinadduri/) &nbsp; [\[aadduri@andrew.cmu.edu\]](mailto:aadduri@andrew.cmu.edu) 
 
-<img src="assets/images/abhi-icon.jpg" align="right" alt="Abhinav Adduri"/>
-
 Hello! I am a 5th year Ph.D. Candidate in the Computational Biology Department at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). 
 
-My focus is on using AI / ML techniques and graph algorithms for novel, natural drug discovery. Organisms in nature such as bacteria or fungi can produce drugs that can benefit humankind, but as of now, finding these drugs is laborious and mostly trial and error. 
+<img src="assets/images/abhi-icon.jpg" align="right" alt="Abhinav Adduri"/>
+
+My focus is on using AI / ML techniques and algorithms for natural drug discovery. Organisms in nature such as bacteria or fungi can produce drugs that can benefit humankind, but as of now, finding these drugs is laborious and mostly trial and error. 
 
 Since DNA largely dictates the characteristics of organisms, my research started with the question: can we examine the DNA of microbes to reliably predict the drug-like compounds they will create? And can we characterize whether they will be useful to humans as antibiotics, antifungals, or even as cancer therapeutics? 
 
-Our lab is using the latest in LLMs and bioinformatics to answer these questions, starting from DNA and ending with wet lab validation of our results. We are working with Nature to publish our most recent discovery: an antifungal that we discovered which kills a drug-resistant fungal strain that the CDC considers an urgent threat.
+Our lab is using the latest in LLMs and bioinformatics to answer these questions, starting from DNA and ending with wet lab validation of our results. We are working with Nature to publish our most recent discovery: an antifungal that we discovered which kills a drug-resistant 
+fungal strain that the CDC considers an urgent threat.
+
+I am also working on training foundational models via self-supervised techniques \
+on multi-modal biological data to tackle problems such as drug-target interaction 
+and matching small molecules to their mass spectra.
 
 # Publications
 Yan, D.\*, Zhou, M.\*, **Adduri, A.\***, Guler, M., Liu, S., Shin, H., Kovach, T., Oh, G., Liu, X., Deng, Y., Cao, L., Behsaz, B., & Mohimani, H. (Expected 2024). Seq2PKS: Discovering modular type I cis-AT polyketide natural products by integrating computational mass spectrometry and genome mining. *Manuscript under review for publication in Nature Communications.*
@@ -30,7 +35,7 @@ Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, Mohamed, O. G., Caraballo-Rodrígue
 
 **Adduri, A.**, Yan, D., Guler, M., Suraparaju, C., Fang, N., Tripathi, A., & Mohimani, H. (Expected 2024). Seq2Hybrid: Discovering type I polyketide and non-ribosomal peptide hybrid natural products. *Manuscript in preparation for submission to Nature Communications.*
 
-**Adduri, A.\***, McNutt, A.\*, Suraparaju, C., Fang, N., Koes, D., Mohimani, H. (Expected 2024). Protein foundation models for accurate and generalizable adenylation domain specificity prediction. *Manuscript in preparation for submission to Neurips.*
+**Adduri, A.\***, McNutt, A.\*, Suraparaju, C., Fang, N., Koes, D., Mohimani, H. (Expected 2024). Protein foundation models for accurate and generalizable adenylation domain specificity prediction. *Manuscript in preparation for submission to NeurIPS.*
 
 *Equal Contribution.
 
