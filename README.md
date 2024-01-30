@@ -12,7 +12,7 @@ fungal strain that the CDC considers an urgent threat.
 
 I am also working on using self-supervised techniques on multi-modal biological data to tackle problems such as drug-target interaction and matching small molecules to their mass spectra.
 
-Before my Ph.D. I majored in Computer Science at UC Berkeley. I am passionate about writing software and I am partial to the [Rust](https://www.rust-lang.org) programming language.
+Before starting my Ph.D., I majored in Computer Science at UC Berkeley. I am partial to the [Rust](https://www.rust-lang.org) programming language, which we've used in our lab for order of magnitude improvements over previous state of the art runtimes.
 
 # Publications
 Yan, D.\*, Zhou, M.\*, **Adduri, A.\***, Guler, M., Liu, S., Shin, H., Kovach, T., Oh, G., Liu, X., Deng, Y., Cao, L., Behsaz, B., & Mohimani, H. (Expected 2024). Seq2PKS: Discovering modular type I cis-AT polyketide natural products by integrating computational mass spectrometry and genome mining. *Manuscript under review for publication in Nature Communications.*
