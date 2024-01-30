@@ -1,7 +1,7 @@
 # Abhinav Adduri
 [\[LinkedIn\]](https://www.linkedin.com/in/abhinadduri/) [\[aadduri@andrew.cmu.edu\]](mailto:aadduri@andrew.cmu.edu) 
 
-<img src="assets/images/abhi-icon.jpg" align="right" alt="Abhinav Adduri" width=40%/>
+<p><img src="assets/images/abhi-icon.jpg" align="right" alt="Abhinav Adduri" width="40%"/></p>
 
 Hello! I am a 5th year Ph.D. Candidate in the Computational Biology Department at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). 
 
