@@ -36,6 +36,15 @@ Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, Mohamed, O. G., Caraballo-Rodrígue
 
 *Equal Contribution.
 
+# Prior Work / Internships
+
+|     Company      |       Location       |           Dates           |
+|------------------|----------------------|---------------------------|
+| Square / Caviar  | San Francisco, CA    | May 2019 - August 2019    |
+| Rubrik           | Palo Alto, CA        | May 2018 - August 2018    |
+| Mozilla          | Portland, OR         | May 2017 - August 2017    |
+| Bio-G            | Berkeley, CA         | May 2016 - April 2017     |
+
 # Patents
 
 [Automated Review of Source Code for Style Issues](https://patents.justia.com/patent/11294792), Rubrik 2021
