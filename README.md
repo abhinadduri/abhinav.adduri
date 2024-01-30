@@ -1,7 +1,7 @@
 # Abhinav Adduri
 <img src="assets/images/abhinav-portrait.jpg" align="right" alt="Abhinav Adduri"/>
 
-[\[LinkedIn\]](https://www.linkedin.com/in/abhinadduri/) &nbsp; [\[aadduri@andrew.cmu.edu\]](mailto:aadduri@andrew.cmu.edu) 
+[\[LinkedIn\]](https://www.linkedin.com/in/abhinadduri/) &nbsp; [\[CV\]](https://raw.githubusercontent.com/abhinadduri/abhinadduri.github.io/main/assets/Abhinav_CV.pdf) &nbsp; [\[aadduri@andrew.cmu.edu\]](mailto:aadduri@andrew.cmu.edu) 
 
 Hello! I am a 5th year Ph.D. Candidate in the Computational Biology Department at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). My focus is on using AI / ML techniques and efficient, scalable algorithms for natural drug discovery.
 
@@ -11,6 +11,8 @@ Our lab is using the latest in LLMs and bioinformatics to answer these questions
 fungal strain that the CDC considers an urgent threat.
 
 I am also working on using self-supervised techniques on multi-modal biological data to tackle problems such as drug-target interaction and matching small molecules to their mass spectra.
+
+Before my Ph.D. I majored in Computer Science at UC Berkeley. I am passionate about writing software and I am partial to the [Rust](https://www.rust-lang.org) programming language.
 
 # Publications
 Yan, D.\*, Zhou, M.\*, **Adduri, A.\***, Guler, M., Liu, S., Shin, H., Kovach, T., Oh, G., Liu, X., Deng, Y., Cao, L., Behsaz, B., & Mohimani, H. (Expected 2024). Seq2PKS: Discovering modular type I cis-AT polyketide natural products by integrating computational mass spectrometry and genome mining. *Manuscript under review for publication in Nature Communications.*
@@ -25,10 +27,6 @@ Mongia, M., Baral, R., **Adduri, A.**, Yan, D., Liu, Y., Bian, Y., Kim, P., Behs
 
 *Equal Contribution.
 
-# Patents
-
-Automated Review of Source Code for Style Issues, Rubrik 2018
-
 # Pending publications... stay tuned!
 
 Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, Mohamed, O. G., Caraballo-Rodríguez, A. M., Duggan, B., Chaudhary, N., Miller, C., Liu, S., Krummenacher, B., Broders, K., Zamith-Miranda, D., Schultz, P. J., Sherman, D. H., Clement, J., Nakayasu, E., Nosanchuk, J., Dorrestein, P. C., Tripathi, A., & Mohimani, H. (Expected 2024). Pathogen-oriented platform for large-scale natural product discovery identifies novel antifungal targeting drug-resistant candidiasis. *Manuscript in preparation for submission to Nature.*
@@ -38,6 +36,10 @@ Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, Mohamed, O. G., Caraballo-Rodrígue
 **Adduri, A.\***, McNutt, A.\*, Suraparaju, C., Fang, N., Koes, D., Mohimani, H. (Expected 2024). Protein foundation models for accurate and generalizable adenylation domain specificity prediction. *Manuscript in preparation for submission to NeurIPS.*
 
 *Equal Contribution.
+
+# Patents
+
+[Automated Review of Source Code for Style Issues](https://patents.justia.com/patent/11294792), Rubrik 2021
 
 # Side Projects
 [RecursiveGPT](https://github.com/james-julius/recursive-gpt) - a chat interface I helped develop which searches for adjacent GPT conversations in embedding space and suggests follow-up questions to enhance your knowledge dives.
