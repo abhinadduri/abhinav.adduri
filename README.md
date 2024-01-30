@@ -42,7 +42,7 @@ Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, Mohamed, O. G., Caraballo-Rodrígue
 [Automated Review of Source Code for Style Issues](https://patents.justia.com/patent/11294792), Rubrik 2021
 
 # Side Projects
-[RecursiveGPT](https://github.com/james-julius/recursive-gpt) - a chat interface I helped develop which searches for adjacent GPT conversations in embedding space and suggests follow-up questions to enhance your knowledge dives.
+[RecursiveGPT](https://github.com/james-julius/recursive-gpt) - a chat interface I helped develop at an AGI house hackathon which searches for adjacent GPT conversations in embedding space and suggests follow-up questions to enhance your knowledge dives.
 
 [kilter.net](https://github.com/mdayao/kilter.net) - a convolutional variational autoencoder to generate climbing routes conditioned on difficulty and board angle.
 
