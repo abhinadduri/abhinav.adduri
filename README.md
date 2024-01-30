@@ -28,6 +28,10 @@ Mongia, M., Baral, R., **Adduri, A.**, Yan, D., Liu, Y., Bian, Y., Kim, P., Behs
 
 Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, Mohamed, O. G., Caraballo-Rodríguez, A. M., Duggan, B., Chaudhary, N., Miller, C., Liu, S., Krummenacher, B., Broders, K., Zamith-Miranda, D., Schultz, P. J., Sherman, D. H., Clement, J., Nakayasu, E., Nosanchuk, J., Dorrestein, P. C., Tripathi, A., & Mohimani, H. (Expected 2024). Pathogen-oriented platform for large-scale natural product discovery identifies novel antifungal targeting drug-resistant candidiasis. *Manuscript in preparation for submission to Nature.*
 
+**Adduri, A.**, Yan, D., Guler, M., Suraparaju, C., Fang, N., Tripathi, A., & Mohimani, H. (Expected 2024). Seq2Hybrid: Discovering type I polyketide and non-ribosomal peptide hybrid natural products. *Manuscript in preparation for submission to Nature Communications.*
+
+**Adduri, A.\***, McNutt, A.\*, Suraparaju, C., Fang, N., Koes, D., Mohimani, H. (Expected 2024). Protein foundation models for accurate and generalizable adenylation domain specificity prediction. *Manuscript in preparation for submission to Neurips.*
+
 *Equal Contribution.
 
 # Side Projects
