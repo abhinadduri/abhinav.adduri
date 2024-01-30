@@ -44,7 +44,7 @@ Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, Mohamed, O. G., Caraballo-Rodrígue
 
 [CMU Coffee Chats](https://github.com/scs-phd-deans-committee/coffee-chats-website) - a simple website to connect like-minded CMU students for conversations over coffee ☕.
 
-[Firefox Send](https://github.com/mozilla/send) - a peer-to-peer, prvate file sharing app I developed during my time at Mozilla which was covered by Forbes, TechRepublic, etc.
+[Firefox Send](https://github.com/mozilla/send) - a peer-to-peer, private file sharing app I developed during my time at Mozilla which was covered by Forbes, TechRepublic, etc.
 
 [Tao](https://github.com/abhinadduri/tao) - a browser based discrete event simulation engine with IoT capabilities.
 
