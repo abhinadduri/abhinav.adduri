@@ -2,7 +2,7 @@
 [\[LinkedIn\]](https://www.linkedin.com/in/abhinadduri/) &nbsp; [\[CV\]](https://raw.githubusercontent.com/abhinadduri/abhinadduri.github.io/main/assets/Abhinav_CV.pdf) &nbsp; [\[aadduri@andrew.cmu.edu\]](mailto:aadduri@andrew.cmu.edu) 
 <img src="assets/images/abhinav-portrait.jpg" align="right" alt="Abhinav Adduri"/>
 
-Hello! I am a 5th year Ph.D. Candidate at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). My research focus is on applying high performance computing techniques and AI for computational drug discovery.
+Hello! I am a 5th year Ph.D. Candidate at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). My research focus is on developing and applying high performance computing techniques and AI for computational drug discovery.
 
 Organisms in nature such as bacteria or fungi can produce drugs that can benefit humanity, but as of now, finding these drugs is laborious and mostly trial and error. Since DNA largely dictates the characteristics of organisms, my research started with the question: can we examine the DNA of microbes to reliably predict the drug-like compounds they will create? And, can we characterize whether they will be useful to humans as antibiotics, antifungals, or even as cancer therapeutics? 
 
@@ -36,27 +36,24 @@ Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, Mohamed, O. G., Caraballo-Rodrígue
 
 *Equal Contribution.
 
-# Prior Work / Internships
+# Prior Work
 
-|     Company      |       Location       |           Dates           |
-|------------------|----------------------|---------------------------|
-| Square / Caviar  | San Francisco, CA    | May 2019 - August 2019    |
-| Rubrik           | Palo Alto, CA        | May 2018 - August 2018    |
-| Mozilla          | Portland, OR         | May 2017 - August 2017    |
-| Bio-G            | Berkeley, CA         | May 2016 - April 2017     |
+|     Company      |       Location       |             Dates            |         My Contributions         |
+|------------------|----------------------|------------------------------|-------------------------|
+| Square / Caviar  | San Francisco, CA    |    May 2019 - August 2019    | Improved pre-checkout food delivery ETA predictions, and improved recall / precision of fraud detection models by 3.5x / 2.5x respectively.                         |
+| Rubrik           | Palo Alto, CA        |    May 2018 - August 2018    | Designed and implemented a distributed cache system for the filesystems team, and designed RPCs to expose the node cache space.                                     |
+| Mozilla          | Portland, OR         |    May 2017 - August 2017    | Designed and wrote [Firefox Send](https://github.com/mozilla/send), a peer-to-peer, private file sharing app with 13.2k stars and 1.6k forks on github. Send was covered by [Forbes](https://www.forbes.com/sites/leemathews/2017/08/04/firefox-makers-new-app-makes-secure-file-sharing-a-breeze/?sh=65fd86b71d03), TechRepublic, etc, but was eventually shutdown in 2020 due to [malicious users](https://en.wikipedia.org/wiki/Firefox_Send). The engine I wrote has been reused in multiple open source projects, such as [ffsend](https://github.com/timvisee/ffsend), and Mozilla has since resurrected the project as [Thunderbird Send](https://addons.thunderbird.net/en-us/thunderbird/addon/filelink-provider-for-send/).       |
 
 # Patents
 
 [Automated Review of Source Code for Style Issues](https://patents.justia.com/patent/11294792), Rubrik 2021
 
-# Side Projects
+# Other Projects
 [RecursiveGPT](https://github.com/james-julius/recursive-gpt) - a chat interface I helped develop at an AGI house hackathon which searches for adjacent GPT conversations in embedding space and suggests follow-up questions to enhance your knowledge dives.
 
 [kilter.net](https://github.com/mdayao/kilter.net) - a convolutional variational autoencoder to generate climbing routes conditioned on difficulty and board angle.
 
 [CMU Coffee Chats](https://github.com/scs-phd-deans-committee/coffee-chats-website) - a simple website to connect like-minded CMU students for conversations over coffee ☕.
-
-[Firefox Send](https://github.com/mozilla/send) - a peer-to-peer, private file sharing app I developed during my time at Mozilla which was covered by Forbes, TechRepublic, etc.
 
 [Tao](https://github.com/abhinadduri/tao) - a browser based discrete event simulation engine with IoT capabilities.
 
