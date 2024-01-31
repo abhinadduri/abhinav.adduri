@@ -40,16 +40,16 @@ Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, Mohamed, O. G., Caraballo-Rodrígue
 
 |     Company      |       Location       |             Dates            |         My Contributions         |
 |------------------|----------------------|------------------------------|-------------------------|
-| Square / Caviar  | San Francisco, CA    |    May 2019 - August 2019    | Improved pre-checkout food delivery ETA predictions, and improved recall / precision of fraud detection models by 3.5x / 2.5x respectively.                         |
-| Rubrik           | Palo Alto, CA        |    May 2018 - August 2018    | Designed and implemented a distributed cache system for the filesystems team, and designed RPCs to expose the node cache space.                                     |
 | Mozilla          | Portland, OR         |    May 2017 - August 2017    | Designed and wrote [Firefox Send](https://github.com/mozilla/send), a peer-to-peer, private file sharing app with 13.2k stars and 1.6k forks on github. Send was covered by [Forbes](https://www.forbes.com/sites/leemathews/2017/08/04/firefox-makers-new-app-makes-secure-file-sharing-a-breeze/?sh=65fd86b71d03), TechRepublic, etc, but was eventually shutdown in 2020 due to [malicious users](https://en.wikipedia.org/wiki/Firefox_Send). The engine I wrote has been reused in multiple open source projects, such as [ffsend](https://github.com/timvisee/ffsend), and Mozilla has since resurrected the project as [Thunderbird Send](https://addons.thunderbird.net/en-us/thunderbird/addon/filelink-provider-for-send/).       |
+| Rubrik           | Palo Alto, CA        |    May 2018 - August 2018    | Designed and implemented a distributed cache system for the filesystems team, and designed RPCs to expose the node cache space.                                     |
+| Square / Caviar  | San Francisco, CA    |    May 2019 - August 2019    | Improved pre-checkout food delivery ETA predictions, and improved recall / precision of fraud detection models by 3.5x / 2.5x respectively.                         |
 
 # Patents
 
 [Automated Review of Source Code for Style Issues](https://patents.justia.com/patent/11294792), Rubrik 2021
 
 # Other Projects
-[RecursiveGPT](https://github.com/james-julius/recursive-gpt) - a chat interface I helped develop at an AGI house hackathon which searches for adjacent GPT conversations in embedding space and suggests follow-up questions to enhance your knowledge dives.
+[RecursiveGPT](https://github.com/james-julius/recursive-gpt) - a chat interface I helped develop at an [AGI house](https://agihouse.ai/) hackathon which searches for adjacent GPT conversations in embedding space and suggests follow-up questions to enhance your knowledge dives.
 
 [kilter.net](https://github.com/mdayao/kilter.net) - a convolutional variational autoencoder to generate climbing routes conditioned on difficulty and board angle.
 
