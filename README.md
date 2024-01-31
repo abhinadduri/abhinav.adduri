@@ -1,5 +1,6 @@
 # Abhinav Adduri
 [\[LinkedIn\]](https://www.linkedin.com/in/abhinadduri/) &nbsp; [\[CV\]](https://raw.githubusercontent.com/abhinadduri/abhinadduri.github.io/main/assets/Abhinav_CV.pdf) &nbsp; [\[aadduri@andrew.cmu.edu\]](mailto:aadduri@andrew.cmu.edu) 
+
 <img src="assets/images/abhinav-portrait.jpg" align="right" alt="Abhinav Adduri"/>
 
 Hello! I am a 5th year Ph.D. Candidate at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). My research focus is on developing and applying high performance computing techniques and AI for computational drug discovery.
