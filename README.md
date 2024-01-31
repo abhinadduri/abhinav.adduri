@@ -27,7 +27,7 @@ Mongia, M., Baral, R., **Adduri, A.**, Yan, D., Liu, Y., Bian, Y., Kim, P., Behs
 
 *Equal Contribution.
 
-# Pending publications... stay tuned!
+# Pending Publications
 
 Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, Mohamed, O. G., Caraballo-Rodríguez, A. M., Duggan, B., Chaudhary, N., Miller, C., Liu, S., Krummenacher, B., Broders, K., Zamith-Miranda, D., Schultz, P. J., Sherman, D. H., Clement, J., Nakayasu, E., Nosanchuk, J., Dorrestein, P. C., Tripathi, A., & Mohimani, H. (Expected 2024). Pathogen-oriented platform for large-scale natural product discovery identifies novel antifungal targeting drug-resistant candidiasis. *Manuscript in preparation for submission to Nature.*
 
