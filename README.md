@@ -8,16 +8,16 @@ Hello! I am a 5th year Ph.D. Candidate at CMU advised by [Dr. Hosein Mohimani](h
 Organisms in nature such as bacteria or fungi can produce drugs that can benefit humanity, but as of now, finding these drugs is laborious and mostly trial and error. Since DNA largely dictates the characteristics of organisms, my research started with the question: can we examine the DNA of microbes to reliably predict the drug-like compounds they will create? And, can we characterize whether they will be useful to humans as antibiotics, antifungals, or even as cancer therapeutics? 
 
 Our lab is using the latest in LLMs and bioinformatics to answer these questions, starting from DNA and ending with wet lab validation of our results. We are working with *Nature* to publish our most recent discovery: an antifungal that we discovered which kills a drug-resistant 
-fungal strain that the CDC considers an urgent threat. To address the need for high performance in this field, we make heavy use of [Rust](https://www.rust-lang.org), which in tandem with efficient algorithm design has led to order of magnitude improvements in runtimes.
+fungal strain that the CDC considers an urgent threat, which we've validated in mouse models. To address the need for high performance in this field, we make heavy use of [Rust](https://www.rust-lang.org), which in tandem with efficient algorithm design has led to order of magnitude improvements in runtimes.
 
-I am also working on using self-supervised techniques on multi-modal biological data to tackle problems downstream of drug discovery, such as drug-target interaction and matching small molecules to their mass spectra.
+I am also interested in using self-supervised techniques on multi-modal biological data to tackle problems downstream of drug discovery, such as drug-target interaction prediction and building a foundation model for mass spectra to improve molecule-spectra matching.
 
 Before starting my Ph.D., I majored in Computer Science at UC Berkeley.
 
 # Publications
-Yan, D.\*, Zhou, M.\*, **Adduri, A.\***, Guler, M., Liu, S., Shin, H., Kovach, T., Oh, G., Liu, X., Deng, Y., Cao, L., Behsaz, B., & Mohimani, H. (Expected 2024). Seq2PKS: Discovering modular type I cis-AT polyketide natural products by integrating computational mass spectrometry and genome mining. *Manuscript under review for publication in Nature Communications.*
+Yan, D.\*, Zhou, M.\*, **Adduri, A.\***, Guler, M., Liu, S., Shin, H., Kovach, T., Oh, G., Liu, X., Deng, Y., Cao, L., Behsaz, B., & Mohimani, H. (Expected 2024). Seq2PKS: Discovering modular type I cis-AT polyketide natural products by integrating computational mass spectrometry and genome mining. *Manuscript awaiting final decision in Nature Communications.*
 
-**Adduri, A.**, & Kim, S. (2023). Ornaments for accurate and efficient allele-specific expression estimation with bias correction. *Manuscript under review for publication in The American Journal of Human Genetics. [[ArXiv](https://www.biorxiv.org/content/10.1101/2023.10.25.564046v1.full)]*
+**Adduri, A.**, & Kim, S. (2023). Ornaments for accurate and efficient allele-specific expression estimation with bias correction. *Manuscript awaiting final decision in The American Journal of Human Genetics. [[ArXiv](https://www.biorxiv.org/content/10.1101/2023.10.25.564046v1.full)]*
 
 Mongia, M., Baral, R., **Adduri, A.**, Yan, D., Liu, Y., Bian, Y., Kim, P., Behsaz, B., & Mohimani, H. (2023). AdenPredictor: Accurate prediction of the adenylation domain specificity of nonribosomal peptide biosynthetic gene clusters in microbial genomes. *Bioinformatics, 39*(Supplement 1), i40-i46.
 
@@ -31,9 +31,8 @@ Mongia, M., Baral, R., **Adduri, A.**, Yan, D., Liu, Y., Bian, Y., Kim, P., Behs
 
 Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, Mohamed, O. G., Caraballo-Rodríguez, A. M., Duggan, B., Chaudhary, N., Miller, C., Liu, S., Krummenacher, B., Broders, K., Zamith-Miranda, D., Schultz, P. J., Sherman, D. H., Clement, J., Nakayasu, E., Nosanchuk, J., Dorrestein, P. C., Tripathi, A., & Mohimani, H. (Expected 2024). Pathogen-oriented platform for large-scale natural product discovery identifies novel antifungal targeting drug-resistant candidiasis. *Manuscript in preparation for submission to Nature.*
 
-**Adduri, A.**, Yan, D., Guler, M., Suraparaju, C., Fang, N., Tripathi, A., & Mohimani, H. (Expected 2024). Seq2Hybrid: Discovering type I polyketide and non-ribosomal peptide hybrid natural products. *Manuscript in preparation for submission to Nature Communications.*
-
-**Adduri, A.\***, McNutt, A.\*, Suraparaju, C., Fang, N., Koes, D., Mohimani, H. (Expected 2024). Protein foundation models for accurate and generalizable adenylation domain specificity prediction. *Manuscript in preparation for submission to NeurIPS.*
+**Adduri, A.**, McNutt, A., Yan, D., Guler, M., Suraparaju, C., Fang, N., Bodden, C., Koes, D., Tripathi, A., & Mohimani, H. (Expected 2024). Protein language models for interpretable adenylation domain specificity predic-
+tion to discover novel type I polyketide and non-ribosomal peptide hybrids. *Manuscript in preparation for submission to Nature Methods.*
 
 *Equal Contribution.
 
