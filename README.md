@@ -3,7 +3,7 @@
 
 <img src="assets/images/abhinav-portrait.jpg" align="right" alt="Abhinav Adduri"/>
 
-Hello! I am a 5th year Ph.D. Candidate at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). My research is in applied deep learning and building and using foundation models to accelerate natural product discovery and drug discovery.
+Hello! I am a 5th year Ph.D. Candidate in Computer Science at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). My research is in applied deep learning and building and using foundation models to accelerate natural product discovery and drug discovery.
 
 Organisms in nature such as bacteria or fungi can produce drugs that can benefit humanity, but as of now, finding these drugs is laborious and mostly trial and error. My work uses LLMs and bioinformatics algorithms to reliably predict the drug-like compounds these microbes can create, and characterize whether they will be useful to humans as antimicrobials or as cancer therapeutics.
 
