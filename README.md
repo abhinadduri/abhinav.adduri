@@ -12,14 +12,14 @@ fungal strain that the CDC considers an urgent threat. To address the need for h
 
 I am also interested in using self-supervised techniques on multi-modal biological data to tackle problems downstream of drug discovery, such as drug-target interaction prediction and mass spectrum-molecule matching.
 
-Before starting my Ph.D., I majored in Computer Science at UC Berkeley. In my free time, I like to go outdoor rock climbing 🧗‍♂️ and play board games.
+Before starting my Ph.D., I majored in Computer Science at UC Berkeley. In my free time, I like to go outdoor rock climbing or play board games.
 
 # Publications
 Mongia, M., Baral, R., **Adduri, A.**, Yan, D., Liu, Y., Bian, Y., Kim, P., Behsaz, B., & Mohimani, H. (2023). AdenPredictor: Accurate prediction of the adenylation domain specificity of nonribosomal peptide biosynthetic gene clusters in microbial genomes. *Bioinformatics, 39*(Supplement 1), i40-i46.
 
 **Adduri, A.** (2019). IoT integration in manufacturing processes. In *Simulation for Industry 4.0: Past, Present, and Future* (pp. 129-139).
 
-**Adduri, A.**, & Schruben, L. (2017). The Tao of simulation. In *2017 Winter Simulation Conference (WSC)* (pp. 607-616). IEEE.
+**Adduri, A.**, & Schruben, L. (2017). The Tao of Simulation. In *2017 Winter Simulation Conference (WSC)* (pp. 607-616). IEEE.
 
 *Equal Contribution.
 
