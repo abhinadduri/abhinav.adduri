@@ -5,12 +5,12 @@
 
 Hello! I am a 5th year Ph.D. Candidate in Computer Science at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). My research is in applied deep learning and building and using foundation models to accelerate natural product discovery and drug discovery.
 
-Organisms in nature such as bacteria or fungi can produce drugs that can benefit humanity, but as of now, finding these drugs is laborious and mostly trial and error. My work uses LLMs and bioinformatics algorithms to reliably predict the drug-like compounds these microbes can create, and characterize whether they will be useful to humans as antimicrobials or as cancer therapeutics.
+Organisms in nature such as bacteria or fungi can produce drugs that can benefit humanity, but as of now, finding these drugs is laborious and mostly trial and error. My recent work uses protein language models and bioinformatics algorithms to reliably predict the drug-like compounds these microbes can create, and characterize whether they will be useful to humans as antimicrobials or cancer therapeutics. To address the need for high-throughput performance, we make heavy use of [Rust](https://www.rust-lang.org) for our bioinformatics tooling, which in tandem with efficient algorithm design has led to order-of-magnitude improvements in runtimes.
 
-We are working to publish our most recent discovery: an antifungal that we've validated in mouse models that kills a drug-resistant 
-fungal strain that the CDC considers an urgent threat. To address the need for high-throughput performance, we make heavy use of [Rust](https://www.rust-lang.org), which in tandem with efficient algorithm design has led to order-of-magnitude improvements in runtimes.
+We are working to publish our most recent discovery: an antifungal that we've validated in mouse models that kills *Candida Auris*, a drug-resistant 
+fungal strain. We are especially excited about this compound as the CDC recently deemed *C. Auris* an urgent threat. 
 
-I am also interested in using self-supervised techniques on multi-modal biological data to tackle problems downstream of drug discovery, such as drug-target interaction prediction and mass spectrum-molecule matching.
+I am also interested in using machine learning to tackle problems downstream of drug discovery, such as drug-target interaction prediction and mass spectrum-molecule matching.
 
 Before starting my Ph.D., I majored in Computer Science at UC Berkeley. In my free time, I like to go outdoor rock climbing or play board games.
 
@@ -24,13 +24,13 @@ Mongia, M., Baral, R., **Adduri, A.**, Yan, D., Liu, Y., Bian, Y., Kim, P., Behs
 *Equal Contribution.
 
 # Pending Publications
+**Adduri, A.**, & Kim, S. (2023). Ornaments for accurate and efficient allele-specific expression estimation with bias correction. *Manuscript accepted in The American Journal of Human Genetics. [[ArXiv](https://www.biorxiv.org/content/10.1101/2023.10.25.564046v1.full)]*
+
+Yan, D.\*, Zhou, M.\*, **Adduri, A.\***, ..., & Mohimani, H. (Expected 2024). Seq2PKS: Discovering modular type I cis-AT polyketide natural products by integrating computational mass spectrometry and genome mining. *Manuscript accepted in Nature Communications.*
+
 Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, ..., & Mohimani, H. (Expected 2024). Pathogen-oriented platform for large-scale natural product discovery identifies novel antifungal targeting drug-resistant candidiasis. *Manuscript under review at Nature Biotechnology.*
 
-**Adduri, A.**, & Kim, S. (2023). Ornaments for accurate and efficient allele-specific expression estimation with bias correction. *Manuscript awaiting final decision in The American Journal of Human Genetics. [[ArXiv](https://www.biorxiv.org/content/10.1101/2023.10.25.564046v1.full)]*
-
-Yan, D.\*, Zhou, M.\*, **Adduri, A.\***, Guler, M., Liu, S., Shin, H., Kovach, T., Oh, G., Liu, X., Deng, Y., Cao, L., Behsaz, B., & Mohimani, H. (Expected 2024). Seq2PKS: Discovering modular type I cis-AT polyketide natural products by integrating computational mass spectrometry and genome mining. *Manuscript awaiting final decision in Nature Communications.*
-
-**Adduri, A.**, McNutt, A., Yan, D., Guler, M., Suraparaju, C., Fang, N., Bodden, C., Koes, D., Tripathi, A., & Mohimani, H. (Expected 2024). Multi-task learning with protein language models enables interpretable adenylation domain specificity prediction. *Manuscript in preparation for submission.*
+**Adduri, A.**, ..., Koes, D., Tripathi, A., & Mohimani, H. (Expected 2024). Multi-task learning with protein language models enables interpretable adenylation domain specificity prediction. *Manuscript in preparation for submission.*
 
 *Equal Contribution.
 
