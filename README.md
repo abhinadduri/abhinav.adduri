@@ -3,9 +3,13 @@
 
 <img src="assets/images/abhinav-portrait.jpg" align="right" alt="Abhinav Adduri"/>
 
-Hello! I am a 5th year Ph.D. Candidate in Computer Science at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). My research uses protein language models to combat the rising rates of antimicrobial resistance by accelerating the discovery of antimicrobials with novel mechanisms of action (MOA). Downstream of drug discovery, my work also focuses on representation learning and aligning modalities (e.g., small molecule drug and protein target) to predict drug-target interactions and mechanism of action.
+Hello! I am a 5th year Ph.D. Candidate in Computer Science at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). My research uses protein language models to combat the rising rates of antimicrobial resistance by accelerating the discovery of antimicrobials with novel mechanisms of action (MOA).
 
-Organisms in nature such as bacteria or fungi can produce drugs that can benefit humanity, but as of now, finding these drugs is laborious and mostly trial and error. Our work combines protein language models with mass spectrometry analysis to predict the drug-like molecules these microbes synthesize, and to characterize their bioactivity. We are working to publish our most recent discovery: an antifungal that we've validated in mouse models that kills *Candida Auris*, a drug-resistant fungal strain. We are especially excited about this compound as the CDC recently deemed *C. Auris* an urgent threat. 
+Downstream of drug discovery, my work also focuses on representation learning and aligning modalities (e.g., small molecule drug and protein target) to predict drug-target interactions and mechanism of action.
+
+Organisms in nature such as bacteria or fungi can produce drugs that can benefit humanity, but as of now, finding these drugs is laborious and mostly trial and error. Our work combines protein language models with mass spectrometry analysis to predict the drug-like molecules these microbes synthesize, and to characterize their bioactivity.
+
+We are working to publish our most recent discovery: an antifungal that we've validated in mouse models that kills *Candida Auris*, a drug-resistant fungal strain. We are especially excited about this compound as the CDC recently deemed *C. Auris* an urgent threat. 
 
 Before starting my Ph.D., I majored in Computer Science at UC Berkeley. In my free time, I like to go outdoor rock climbing or play board games.
 
@@ -15,6 +19,8 @@ Ellington, C.\*, **Adduri, A.\***, ..., Mohimani, H. Xing, E. Ultra-High-Through
 Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, ..., & Mohimani, H. (Expected 2024). Pathogen-oriented platform for large-scale natural product discovery identifies novel antifungal targeting drug-resistant candidiasis. *Manuscript submitted.*
 
 **Adduri, A.**, ..., Koes, D., Tripathi, A., & Mohimani, H. (Expected 2024). Multi-task learning with protein language models enables interpretable adenylation domain specificity prediction. *Manuscript submitted.*
+
+*Equal Contribution.
 
 # Publications
 **Adduri, A.**, & Kim, S. (2024). Ornaments for accurate and efficient allele-specific expression estimation with bias correction. *Manuscript accepted in The American Journal of Human Genetics.* 
