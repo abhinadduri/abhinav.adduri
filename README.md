@@ -3,7 +3,7 @@
 
 <img src="assets/images/abhinav-portrait.jpg" align="right" alt="Abhinav Adduri"/>
 
-Hello! I am a 5th year Ph.D. Candidate in Computer Science at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). My research uses protein language models to combat the rising rates of antimicrobial resistance by accelerating the discovery of antimicrobials with novel mechanisms of action (MOA).
+Hello! I am a 5th year Ph.D. Candidate in Computer Science at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). My research leverages protein language models to combat the rising rates of antimicrobial resistance by accelerating the discovery of antimicrobials with novel mechanisms of action (MOA).
 
 Downstream of drug discovery, my work also focuses on representation learning and aligning modalities (e.g., small molecule drug and protein target) to predict drug-target interactions and mechanism of action.
 
@@ -16,9 +16,9 @@ Before starting my Ph.D., I majored in Computer Science at UC Berkeley. In my fr
 # Pending Publications
 Ellington, C.\*, **Adduri, A.\***, ..., Mohimani, H. Xing, E. Ultra-High-Throughput Virtual Screening for Antimicrobials. Under review at Machine Learning in Computational Biology.
 
-Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, ..., & Mohimani, H. (Expected 2024). Pathogen-oriented platform for large-scale natural product discovery identifies novel antifungal targeting drug-resistant candidiasis. *Manuscript submitted.*
+Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, ..., & Mohimani, H. Pathogen-oriented platform for large-scale natural product discovery identifies novel antifungal targeting drug-resistant candidiasis. *Under review at Nature Communications.*
 
-**Adduri, A.**, ..., Koes, D., Tripathi, A., & Mohimani, H. (Expected 2024). Multi-task learning with protein language models enables interpretable adenylation domain specificity prediction. *Manuscript submitted.*
+**Adduri, A.**, ..., Xing, E., Koes, D., & Mohimani, H. Interpretable adenylation domain specificity prediction using protein language models. *Manuscript submitted and awaiting review.*
 
 *Equal Contribution.
 
