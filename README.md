@@ -1,9 +1,9 @@
 # Abhinav Adduri
-[\[LinkedIn\]](https://www.linkedin.com/in/abhinadduri/) &nbsp; [\[CV\]](https://raw.githubusercontent.com/abhinadduri/abhinadduri.github.io/main/assets/Abhinav_CV.pdf) &nbsp; [\[aadduri [AT] cs.cmu.edu\]](mailto:aadduri@cs.cmu.edu) 
-
 <img src="assets/images/abhinav-portrait.jpg" align="right" alt="Abhinav Adduri"/>
 
-Hello! I am a 5th year Ph.D. Candidate in Computer Science at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/). My research leverages protein language models to combat the rising rates of antimicrobial resistance by accelerating the discovery of antimicrobials with novel mechanisms of action (MOA).
+[\[LinkedIn\]](https://www.linkedin.com/in/abhinadduri/) &nbsp; [\[CV\]](https://raw.githubusercontent.com/abhinadduri/abhinadduri.github.io/main/assets/Abhinav_CV.pdf) &nbsp; [\[aadduri [AT] cs.cmu.edu\]](mailto:aadduri@cs.cmu.edu) 
+
+Hello! I am a 5th year Ph.D. Candidate in Computer Science at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/) and a Felicis Fellow in AI. My research leverages protein language models to combat the rising rates of antimicrobial resistance by accelerating the discovery of antimicrobials with novel mechanisms of action (MOA).
 
 Downstream of drug discovery, my work also focuses on representation learning and aligning modalities (e.g., small molecule drug and protein target) to predict drug-target interactions and mechanism of action.
 
