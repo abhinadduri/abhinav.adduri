@@ -1,7 +1,7 @@
 # Abhinav Adduri
 <img src="assets/images/abhinav-portrait.jpg" align="right" alt="Abhinav Adduri"/>
 
-[\[LinkedIn\]](https://www.linkedin.com/in/abhinadduri/) &nbsp; [\[CV\]](https://raw.githubusercontent.com/abhinadduri/abhinadduri.github.io/main/assets/Abhinav_CV.pdf) &nbsp; [\[aadduri [AT] cs.cmu.edu\]](mailto:aadduri@cs.cmu.edu) 
+[\[LinkedIn\]](https://www.linkedin.com/in/abhinadduri/) &nbsp; [\[aadduri [AT] cs.cmu.edu\]](mailto:aadduri@cs.cmu.edu) 
 
 Hello! I am a 5th year Ph.D. Candidate in Computer Science at CMU advised by [Dr. Hosein Mohimani](http://mohimanilab.cbd.cmu.edu/) and a Felicis Fellow in AI. My research leverages protein language models to combat the rising rates of antimicrobial resistance by accelerating the discovery of antimicrobials with novel mechanisms of action (MOA).
 
@@ -11,18 +11,22 @@ Organisms in nature such as bacteria or fungi can produce drugs that can benefit
 
 We are working to publish our most recent discovery: an antifungal that we've validated in mouse models that kills *Candida Auris*, a drug-resistant fungal strain. We are especially excited about this compound as the CDC recently deemed *C. Auris* an urgent threat. 
 
-Before starting my Ph.D., I majored in Computer Science at UC Berkeley. In my free time, I like to go outdoor rock climbing or play board games.
+Before starting my Ph.D., I majored in Computer Science at UC Berkeley. In my free time, I like to go outdoor rock climbing.
 
-# Pending Publications
-Ellington, C.\*, **Adduri, A.\***, ..., Mohimani, H. Xing, E. Ultra-High-Throughput Virtual Screening for Antimicrobials. Under review at Machine Learning in Computational Biology.
+# Publications in Review
+McNutt, Andrew.\*, **Adduri, A.\***, Ellington, C.\*, ..., Xing, E., Mohimani, H. Koes, David. SPRINT Enables Interpretable and Fast Virtual Screening against Thousands of Proteomes. Under review at MLSB NeurIPS workshop.
 
 Behsaz, B.\*, **Adduri, A.\***, Guler, M.\*, ..., & Mohimani, H. Pathogen-oriented platform for large-scale natural product discovery identifies novel antifungal targeting drug-resistant candidiasis. *Under review at Nature Communications.*
 
-**Adduri, A.**, ..., Xing, E., Koes, D., & Mohimani, H. Interpretable adenylation domain specificity prediction using protein language models. *Manuscript submitted and awaiting review.*
+**Adduri, A.**, ..., Xing, E., Koes, D., & Mohimani, H. Interpretable adenylation domain specificity prediction using protein language models. *Under review at PNAS.*
+
+Ellington, C., Lengerich, B., Watkins, T., Yang, J., **Adduri, A.**, Xiao, H., Kellis, M., Xing, E. Contextualized networks reveal heterogeneous transcriptomic regulation in tumors at sample-specific resolution. *Under review at PNAS.*
 
 *Equal Contribution.
 
 # Publications
+Ellington, C.\*, **Adduri, A.\***, ..., Mohimani, H. Xing, E. Ultra-High-Throughput Virtual Screening for Antimicrobials. Machine Learning in Computational Biology 2024.
+
 **Adduri, A.**, & Kim, S. (2024). Ornaments for accurate and efficient allele-specific expression estimation with bias correction. *Manuscript accepted in The American Journal of Human Genetics.* 
 
 Yan, D.\*, Zhou, M.\*, **Adduri, A.\***, ..., & Mohimani, H. (2024). Seq2PKS: Discovering modular type I cis-AT polyketide natural products by integrating computational mass spectrometry and genome mining. *Nature Communications, 15.1 (2024): 5356.*
